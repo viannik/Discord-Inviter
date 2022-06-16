@@ -1,4 +1,7 @@
 # Discord-Inviter
+Works in multithreading
+
+Solves captcha
 
 ## Requirements
 Twit2Disc requires Python 3.10 or higher
